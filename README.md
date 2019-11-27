@@ -11,8 +11,7 @@ XORpass is an encoder to bypass WAF filters using XOR operations.
 git clone https://github.com/devploit/XORpass
 cd XORpass
 
-$ php encode.php STRING
-$ php decode.php "XORed STRING"
+$ python3 xorpass.py -h
 ```
 
 ### Example of bypass:
@@ -21,10 +20,7 @@ Using clear PHP function:
 
 Using XOR bypass of that function:
 ```bash
-$ php encode.php system # return A
-$ php encode.php ls # return B
-
-payload == A(B)
+$ python3 xorpass.py -e "system(ls)"
 ```
 <img src="https://i.imgur.com/iLF2rg7.png" width="800" height="200">
 
