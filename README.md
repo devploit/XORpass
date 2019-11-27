@@ -50,6 +50,9 @@ If we do an 'echo "A"^"S"^"B";' PHP will return us a P as we see.
 
 <img src="https://i.imgur.com/7IAD6ZY.png" width="250" height="100">
 
+### Contributors
+[@julianjm](https://github.com/julianjm)
+
 ### Contact
 Telegram: @devploit
 
