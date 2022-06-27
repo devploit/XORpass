@@ -54,6 +54,5 @@ If we do an 'echo "A"^"S"^"B";' PHP will return us a P as we see.
 [@julianjm](https://github.com/julianjm)
 
 ### Contact
-Telegram: [@devploit](https://t.me/devploit)
-
-Twitter: [@devploit](https://www.twitter.com/devploit)
+[![Twitter: devploit](https://img.shields.io/twitter/follow/devploit?style=social)](https://twitter.com/devploit)
+[![Telegram: devploit](https://img.shields.io/badge/-devploit-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/devploit)](https://t.me/devploit)
